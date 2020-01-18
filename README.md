@@ -1,2 +1,2 @@
 # leetcode-algorithm
-Algorithm of leetcode and ->offer
+Algorithm of leetcode and offer
